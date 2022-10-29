@@ -10,7 +10,6 @@ const App = () => {
 
   const onChange = (event) => {
     setValue(event.target.value);
-    console.log(event.target.value);
   }
   
   return (
@@ -43,6 +42,5 @@ const App = () => {
     </div>
   )
 }
-
 
 export default App;
