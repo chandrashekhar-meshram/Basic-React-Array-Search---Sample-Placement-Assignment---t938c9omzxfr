@@ -1,4 +1,5 @@
 # Basic Search
+4 Oct 2022
 
 In the <code>components/App.js</code>, an array with strings is given.
 
