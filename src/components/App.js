@@ -57,3 +57,4 @@ const App = () => {
 export default App;
 
 // https://www.codingdeft.com/posts/react-filter/
+// https://www.w3schools.com/jsref/jsref_regexp_i.asp
